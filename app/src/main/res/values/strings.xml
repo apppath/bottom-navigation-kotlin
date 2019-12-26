@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Kitty ORM app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="star_list">
+
+        <item>Tulip</item>
+        <item>Daffodil</item>
+        <item>Poppy</item>
+        <item>Sunflower</item>
+        <item>Bluebell</item>
+        <item>Rose</item>
+        <item>Snowdrop</item>
+        <item>Cherry blossom</item>
+        <item>Orchid</item>
+        <item>Iris</item>
+        <item>Peony</item>
+        <item>Chrysanthemum</item>
+        <item>Geranium</item>
+        <item>Lily</item>
+        <item>Lotus</item>
+        <item>Water lily</item>
+        <item>Dandelion</item>
+        <item>Hyacinth</item>
+        <item>Daisy</item>
+        <item>Crocus</item>
+
+    </string-array>
+
+</resources>

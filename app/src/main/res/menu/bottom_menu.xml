@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_account_balance_black_24dp"
+        android:title="Home" />
+
+
+    <item
+        android:id="@+id/starFragment"
+        android:icon="@drawable/ic_star_list_view"
+        android:title="Flowers" />
+
+
+    <item
+        android:id="@+id/shireFragment"
+        android:icon="@drawable/ic_list_view"
+        android:title="OS List" />
+
+
+</menu>
